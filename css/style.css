@@ -37,4 +37,18 @@ button {
   color: #00ff88;
   text-decoration: none;
 }
+.desc {
+  margin: 10px 0;
+  font-size: 14px;
+  color: #ccc;
+}
 
+.features {
+  text-align: left;
+  margin: 15px 0;
+  padding-left: 20px;
+}
+
+.features li {
+  margin-bottom: 6px;
+}
