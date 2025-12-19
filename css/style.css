@@ -1,1 +1,40 @@
 
+body {
+  margin: 0;
+  background: #0f0f0f;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 400px;
+  margin: 60px auto;
+  padding: 20px;
+  background: #1c1c1c;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.price {
+  font-size: 28px;
+  color: #00ff88;
+  margin: 15px 0;
+}
+
+button {
+  width: 100%;
+  padding: 15px;
+  background: #00ff88;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.whatsapp {
+  display: block;
+  margin-top: 15px;
+  color: #00ff88;
+  text-decoration: none;
+}
+
